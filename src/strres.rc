@@ -1,0 +1,8 @@
+STRINGTABLE LOADONCALL MOVEABLE DISCARDABLE
+{
+  1,   "DIBレタッチプラグイン"
+  100, "Plug-in Filters for Dibas32v1.04 writen by M.Sakai"
+}
+
+
+
